@@ -36,8 +36,6 @@ void removeSpaces(char *text) {
     }
     text[count] = '\0';
 }
-```
-```
 
 void diagraph(char *text, char digraphs[][2]) {
     int i = 0, k = 0;
