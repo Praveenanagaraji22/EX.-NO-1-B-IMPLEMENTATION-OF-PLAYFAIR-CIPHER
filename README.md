@@ -51,6 +51,8 @@ void diagraph(char *text, char digraphs[][2]) {
         k++;
     }
 }
+```
+```
 
 void fillerLetter(char *text) {
     if (strlen(text) % 2 != 0) {
